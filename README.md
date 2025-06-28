@@ -47,7 +47,7 @@ Outside tech, ⚽ I love physical activity and am passionate about watching foot
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" style="border: none;">
   </a>
 
-  <a href="https://www.linkedin.com/in/michael-robayo-730303367/" target="_blank">
+  <a href="https://www.linkedin.com/in/michael-stiven-robayo-diaz-730303367/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" style="border: none;">
   </a>
 </span>
